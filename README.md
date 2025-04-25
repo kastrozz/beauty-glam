@@ -83,7 +83,7 @@
     <h2>Bases</h2>
     <div class="products">
       <div class="card">
-        <img src="https://http2.mlstatic.com/D_NQ_NP_607746-MLA78655415110_092024-O.webp"Base 1">
+        <img src="https://http2.mlstatic.com/D_NQ_NP_607746-MLA78655415110_092024-O.webp" alt="Base 1">
         <p>Base Maybelline Fit Me Matte + Poreless 220 Natural Beige x 30ml</p>
         <p>$48.000</p>
 <button>Agregar al carrito</button>
